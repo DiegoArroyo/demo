@@ -1,0 +1,43 @@
+{
+  "dispersiones": [
+    {
+      "DispersionKuboID"			: 1,
+      "NombreCliente"	        : "JACOBO ARRONA OTERO",
+      "CreditoID"			        : "100037124",
+      "ClienteID"		          : "3645",
+      "CuentaAhoID"	          : "100037021",
+      "TipoCredito"			      : "REN",
+      "InstitucionBenefi"	    : "BBVA BANCOMER",
+      "CuentaBeneficiaria"		: "021281064082159988",
+      "Estatus"	              : "P",
+      "Descripcion"		        : "DISPERSION DE DESEMBOLSO POR CORE.SPEI",
+      "FechaDesembolso"		    : "2018-04-27",
+      "CreditoRelacionado"		: "100065987",
+      "DeudaCreditoRel"		    : "5000.00",
+      "MontoCredito"		      : "10000.00",
+      "ComisionApertura"		  : "431.03",
+      "IVAComApertura"		    : "68.97",
+      "MontoEnviar"		        : "4500"
+    }
+    ,
+    {
+      "DispersionKuboID"			: 2,
+      "NombreCliente"	        : "JACOBO ARRONA OTERO",
+      "CreditoID"			        : "100037124",
+      "ClienteID"		          : "3645",
+      "CuentaAhoID"	          : "100037021",
+      "TipoCredito"			      : "RDC",
+      "InstitucionBenefi"	    : "BBVA BANCOMER",
+      "CuentaBeneficiaria"		: "021281064082159988",
+      "Estatus"	              : "P",
+      "Descripcion"		        : "DISPERSION DE DESEMBOLSO POR CORE.SPEI",
+      "FechaDesembolso"		    : "2018-04-27",
+      "CreditoRelacionado"		: "",
+      "DeudaCreditoRel"		    : "0.00",
+      "MontoCredito"		      : "10000.00",
+      "ComisionApertura"		  : "431.03",
+      "IVAComApertura"		    : "68.97",
+      "MontoEnviar"		        : "9500"
+    }
+  ] 
+} 
